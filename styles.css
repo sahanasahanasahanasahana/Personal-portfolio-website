@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: #007BFF;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.button {
+    background: #28a745;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+section {
+    padding: 20px;
+}
+
+.profile-photo {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.project {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+
